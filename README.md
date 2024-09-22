@@ -69,8 +69,8 @@ pip install -r requirements.txt
 | Feature                      | Screenshot |
 |------------------------------|------------|
 | Data Upload & Summary         | ![Upload Preview](![image](https://github.com/user-attachments/assets/2bbde1e2-82e4-4b0d-ab19-d0fff64e5ebb) |
-| Sampling Technique Selection  | ![Sampling Selection](![image](https://github.com/user-attachments/assets/f6de3221-bbf2-4a3b-8601-cc1a318d4029)) |
-| Sampled Data Visualization    | ![Box Plot Example](![image](https://github.com/user-attachments/assets/498f3bcd-95f5-466f-a645-647fe6054eb7)) |
+| Sampling Technique Selection  | ![Sampling Selection] (https://github.com/user-attachments/assets/f6de3221-bbf2-4a3b-8601-cc1a318d4029)) |
+| Sampled Data Visualization    | ![Box Plot Example] (https://github.com/user-attachments/assets/498f3bcd-95f5-466f-a645-647fe6054eb7)) |
 
 
 
